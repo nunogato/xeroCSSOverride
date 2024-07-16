@@ -11,4 +11,6 @@ Here is a screenshot of how it looks before and after
 
 Use it as you wish, licence CC BY-NC-SA
 
+Need help installing this? email me to github (at) valedegato.pt
+
 Liked the code? Buy me a beer here -> [https://www.buymeabeer.online/nunogato]
