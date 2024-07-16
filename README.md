@@ -11,3 +11,4 @@ Here is a screenshot of how it looks before and after
 
 Use it as you wish, licence CC BY-NC-SA
 
+Liked the code? Buy me a beer here -> [https://www.buymeabeer.online/nunogato]
